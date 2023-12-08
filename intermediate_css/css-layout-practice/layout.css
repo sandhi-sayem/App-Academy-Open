@@ -1,0 +1,26 @@
+form {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    line-height: 1.5rem;
+    font-size: 16px;
+}
+
+fieldset {
+    width: 50%;
+    text-align: center;
+}
+
+legend {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+    padding: 0% 30%;
+}
+
+.two-columns {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}

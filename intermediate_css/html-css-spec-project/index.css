@@ -1,0 +1,63 @@
+#topButtons {
+    display: flex;
+    justify-content: space-between;
+}
+
+#topButtons button {
+    border: 2px solid green;
+    text-decoration: none;
+    color: blue;
+    padding: 0.5rem 1rem;
+}
+
+#appacademy {
+    text-decoration: none;
+    color: blue;
+}
+
+nav {
+    margin-top: 1rem;
+    border: 2px solid pink;
+}
+
+.navigation ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    padding-left: 0;
+}
+
+.navs a {
+    text-decoration: none;
+    color: blue;
+}
+
+h1 {
+    margin: 1rem auto 0;
+    width: 50%;
+    border: 2px solid purple;
+    padding: 5%;
+}
+
+.paraAuthor {
+    display: flex;
+    justify-content: space-between;
+    width: 55%;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.paraButtons {
+    text-align: center;
+}
+
+.paraButtons a {
+    text-decoration: none;
+    color: blue;
+}
+
+#gameRoom {
+    display: flex;
+    margin: 0 auto;
+    width: 60%;
+}
